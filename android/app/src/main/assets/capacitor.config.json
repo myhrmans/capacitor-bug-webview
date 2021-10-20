@@ -1,0 +1,10 @@
+{
+	"appId": "com.bug.app",
+	"appName": "my-svelte-project",
+	"webDir": "public",
+	"bundledWebRuntime": false,
+	"server": {
+		"url": "192.168.0.111:5001",
+		"cleartext": true
+	}
+}
